@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Quelle est la réponse à \"la grande question sur la vie, l'univers et le reste ?",
+    "answers": [
+      {
+        "text": "38",
+        "isCorrect": false
+      },
+      {
+        "text": "42",
+        "isCorrect": true
+      },
+      {
+        "text": "72",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Qui n'a jamais été président de la république française ?",
+    "answers": [
+      {
+        "text": "Johnny Hallyday",
+        "isCorrect": true
+      },
+      {
+        "text": "Raymond Poincaré",
+        "isCorrect": false
+      },
+      {
+        "text": "Pierre-Jean Chalençon",
+        "isCorrect": true
+      },
+      {
+        "text": "Napoléon Bonaparte",
+        "isCorrect": true
+      },
+      {
+        "text": "Donald Trump",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Le sepak takraw (ou Ninja Volley) se joue avec...",
+    "answers": [
+      {
+        "text": "les mains",
+        "isCorrect": false
+      },
+      {
+        "text": "les pieds",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "\"생명, 우주 및 나머지에 대한 큰 질문\"에 대한 답은 무엇입니까 ?",
+    "answers": [
+      {
+        "text": "서른 여덟",
+        "isCorrect": false
+      },
+      {
+        "text": " 마흔 둘",
+        "isCorrect": true
+      },
+      {
+        "text": "일흔 둘",
+        "isCorrect": false
+      }
+    ]
+  }
+]

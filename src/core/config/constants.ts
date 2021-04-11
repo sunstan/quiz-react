@@ -1,0 +1,1 @@
+export const IDK: string = 'Je ne sais pas';
