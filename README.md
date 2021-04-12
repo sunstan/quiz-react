@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## NPM Issue
+If you have an issue with npm, try with Yarn :
+`yarn install`
+`yarn start`
+
 ## Available Scripts
 
 In the project directory, you can run:
